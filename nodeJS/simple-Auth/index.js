@@ -1,12 +1,13 @@
 /* disclaimer *********
-this a speed test
+this is a speed test
 trying to implement and test :
  **a node server with sign up / authentification and route protection using JWT 
  ** in less than an hour
 
-thus, nothing here is optimized for performance code reusability and there is barely no good practices implemented
+thus, nothing here is optimized for performance or code reusability. Also there is barely any good practices implemented
 
 for a better implemntation of this problem please visit : 
+https://github.com/nickParis11/Node-Simple-Auth
 
 //**********************/
 
