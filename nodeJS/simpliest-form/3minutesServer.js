@@ -16,7 +16,7 @@ const template = "Make whatever you want of me, i m only a webp page afterall"
 
 app.get('/',(req,res)=> {
 
-	res.send('<h1>'+template+'</h1> <form action="/" method="post"><input name="say" value="Hi"><input name="to" value="Mom"><button> Send data to server</button></form>');
+	res.send('<h1>'+template+'</h1> <form action="/" method="post"><input name="say" value="Hi"><br><input name="to" value="Mom"><br><button> Send data to server</button></form>');
 })
 
 app.post('/',(req,res)=>{

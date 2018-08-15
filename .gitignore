@@ -1,0 +1,9 @@
+/nodeJS/2minutesServer/node_modules/
+/nodeJS/2minutesServer/package-lock.json
+/webpack/node_modules/
+/webpack/dist/
+/webpack/www/
+/webpack/package-lock.json
+/webpack/webpack4/node_modules/
+/webpack/webpack4/dist/
+/webpack/webpack4/package-lock.json
